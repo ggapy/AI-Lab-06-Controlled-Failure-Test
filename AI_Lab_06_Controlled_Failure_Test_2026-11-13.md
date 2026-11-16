@@ -18,10 +18,11 @@ Accuracy: N/A (no completed predictions)
 
 | Category | Cases | Precision | Recall | F1 |
 |---|---:|---:|---:|---:|
-| Billing | 0 | 0% | 0% | 0% |
-| Sales | 0 | 0% | 0% | 0% |
-| Support | 0 | 0% | 0% | 0% |
-| Other | 0 | 0% | 0% | 0% |
+| Billing | 0 | N/A | N/A | N/A |
+| Sales | 0 | N/A | N/A | N/A |
+| Support | 0 | N/A | N/A | N/A |
+| Other | 0 | N/A | N/A | N/A |
+
 
 ## Confusion Matrix
 
